@@ -1,0 +1,176 @@
+C:\Users\Marp\source\repos\WebAssignment\bin\WebAssignment.dll.config
+C:\Users\Marp\source\repos\WebAssignment\bin\WebAssignment.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\WebAssignment.pdb
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\csc.exe
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\csc.exe.config
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\csc.rsp
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\csi.exe
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\csi.exe.config
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\csi.rsp
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.AppContext.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Console.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Net.Http.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\vbc.exe
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\vbc.exe.config
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\vbc.rsp
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marp\source\repos\WebAssignment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marp\source\repos\WebAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marp\source\repos\WebAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marp\source\repos\WebAssignment\obj\Debug\BookStop.csproj.CoreCompileInputs.cache
+C:\Users\Marp\source\repos\WebAssignment\obj\Debug\BookStop.csproj.CopyComplete
+C:\Users\Marp\source\repos\WebAssignment\obj\Debug\WebAssignment.dll
+C:\Users\Marp\source\repos\WebAssignment\obj\Debug\WebAssignment.pdb
+C:\Users\Marp\source\repos\BookStop\bin\WebAssignment.dll.config
+C:\Users\Marp\source\repos\BookStop\bin\WebAssignment.dll
+C:\Users\Marp\source\repos\BookStop\bin\WebAssignment.pdb
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\csc.exe
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\csc.exe.config
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\csc.rsp
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\csi.exe
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\csi.exe.config
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\csi.rsp
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.AppContext.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Console.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Net.Http.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\vbc.exe
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\vbc.exe.config
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\vbc.rsp
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marp\source\repos\BookStop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marp\source\repos\BookStop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marp\source\repos\BookStop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marp\source\repos\BookStop\obj\Debug\BookStop.csproj.CoreCompileInputs.cache
+C:\Users\Marp\source\repos\BookStop\obj\Debug\BookStop.csproj.CopyComplete
+C:\Users\Marp\source\repos\BookStop\obj\Debug\WebAssignment.dll
+C:\Users\Marp\source\repos\BookStop\obj\Debug\WebAssignment.pdb
+C:\Users\Marp\source\repos\BookStop\obj\Debug\BookStop.csproj.AssemblyReference.cache
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\WebAssignment.dll.config
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\WebAssignment.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\WebAssignment.pdb
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\csc.exe
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\csc.exe.config
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\csc.rsp
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\csi.exe
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\csi.exe.config
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\csi.rsp
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.AppContext.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Collections.Immutable.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Console.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Globalization.Calendars.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.IO.Compression.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.IO.FileSystem.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Net.Http.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Net.Sockets.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Reflection.Metadata.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.ValueTuple.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Xml.XPath.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\vbc.exe
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\vbc.exe.config
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\vbc.rsp
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\VBCSCompiler.exe
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\roslyn\VBCSCompiler.exe.config
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\obj\Debug\BookStop.csproj.AssemblyReference.cache
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\obj\Debug\BookStop.csproj.CoreCompileInputs.cache
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\obj\Debug\BookStop.csproj.CopyComplete
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\obj\Debug\WebAssignment.dll
+C:\School\PSB\2022 sem 1\INFT3050\Assignment Part 2\BookStop\BookStop\obj\Debug\WebAssignment.pdb

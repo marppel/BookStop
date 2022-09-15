@@ -1,0 +1,9 @@
+﻿body {
+    background-color: #eee;
+}
+
+img{
+    height: 50px;
+    width:auto;
+    max-width: 500px;
+}
